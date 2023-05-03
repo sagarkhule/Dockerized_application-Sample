@@ -5,7 +5,7 @@
 
 --> To pull this Docker Image use the following command:
 ```
-docker pull seemanshushukla/welcome-to-dockerized-app
+docker pull sagar_khule/welcome-to-dockerized-app
 ```
 
 --> 
